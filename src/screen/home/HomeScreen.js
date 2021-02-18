@@ -98,6 +98,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.8,
     shadowRadius: 2,
     elevation: 5,
+    borderRadius: 5,
   },
   buttonTextStyle: {fontWeight: '600', fontSize: 15},
   noCardViewStyle: {width: 100, height: 100, alignSelf: 'center'},
